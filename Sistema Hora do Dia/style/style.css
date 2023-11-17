@@ -1,0 +1,44 @@
+
+/*Configurações gerais */
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+
+}
+
+body{
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  
+}
+section{
+  width: 350px;
+  height:350px;
+  margin:30px auto;
+  background: #fff;
+  padding: 15px;
+  border-radius: 10px;
+  box-shadow: 2px 2px 8px black;
+  
+
+}
+
+#foto img{
+  width: 300px;
+  height: auto;
+  margin-top: 15px;
+}
+div{
+  text-align: center;
+}
+
+h2{
+  text-align: center;
+  margin-top:100px;
+}
+footer{
+  text-align: center;
+  color: black;
+  font-weight: 600;
+
+}
